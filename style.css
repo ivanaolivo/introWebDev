@@ -1,10 +1,8 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(bg.jpg) no-repeat;
-  background-color: rgb(123, 194, 224);
+  background: url("background.png");
   background-size: cover;
-  background-image: url("background.png");
 }
 .box{
   width: 450px;
